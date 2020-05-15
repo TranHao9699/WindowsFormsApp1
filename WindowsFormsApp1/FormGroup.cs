@@ -32,7 +32,7 @@ namespace WindowsFormsApp1
                 {
                     listBox1.Items.Add(item.GroupName);
                 }
-            } //Hằng tó
+            } 
         }
         private void FormGroup_Load(object sender, EventArgs e)
         {
